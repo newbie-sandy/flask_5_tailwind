@@ -1,16 +1,17 @@
 # Video hosting, Azure CDN, Tailwind
 
-- Create Azure storage account - 
-  -  ERR: 
-The Azure student account is disabled
-
-- Create a GCP storage bucket
-  -  ERR: 
-Public access prevention is already enforced by your project's organization policy, the Prevent public access toggle is locked.
-
+- Create GCP storage bucket and Cloud CDN
+  - Challenges met:
+    - Public access
 
 - Steps for setting up and using the CDN with your Flask app： https://cloud.google.com/media-cdn/docs/quickstart
+  - Challenges:
+    - Step: Create an EdgeCacheService resource
+      
+      There's no services tab under the Cloud CDN
+      ![image](https://github.com/newbie-sandy/flask_5_tailwind/assets/143536852/4cbeb6eb-c198-4bb1-814b-2627ec2d3f47)
 
+      
 - Steps for deploying your Flask app to the chosen cloud platform.
 
 
