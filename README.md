@@ -1,4 +1,6 @@
-# Video hosting, Azure CDN, Tailwind
+# Video hosting, GCP Cloud CDN, Tailwind
+
+Azure student account is disabled
 
 - Create GCP storage bucket and Cloud CDN
   - Challenges met:
