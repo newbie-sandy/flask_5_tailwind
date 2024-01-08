@@ -1,4 +1,5 @@
-# flask_5_tailwind
+# Video hosting, Azire CDN, Tailwind
+
 Your design rationale and principles followed.
 
 Steps for setting up and using the CDN with your Flask app.
