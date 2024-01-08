@@ -1,4 +1,8 @@
-# Video hosting, Azire CDN, Tailwind
+# Video hosting, Azure CDN, Tailwind
+
+Create Azure storage account - 
+ERR:
+![image](https://github.com/newbie-sandy/flask_5_tailwind/assets/143536852/48070120-63de-4965-abaa-fba8d01c908d)
 
 Your design rationale and principles followed.
 
