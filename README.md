@@ -13,6 +13,11 @@ Azure student account is disabled
       There's no services tab under the Cloud CDN
       ![image](https://github.com/newbie-sandy/flask_5_tailwind/assets/143536852/4cbeb6eb-c198-4bb1-814b-2627ec2d3f47)
 
+- Video hosting
+  - In cloud CDN
+    copy endpoint hostname - paste in search bar
+  - In Storage bucket
+    copy the url (after the domain) - paste after entering / behind the cdn endpoint hostname
       
 - Steps for deploying your Flask app to the chosen cloud platform.
 
